@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+h1{
+    color: blueviolet;
+}
+
+#mio_id{
+    color: white;
+    background-color: rgb(185, 117, 190);
+}
+
+body{
+    text-align: center;
+}
+
